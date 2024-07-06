@@ -27,15 +27,15 @@ step 7: git log
 
 step 8: create github repo
 
-*step 9: git remote add origin git@github.com:Hi-Dear-486/git--github.git
-        local repo link with  remote repo
+step 9: git remote add origin git@github.com:Hi-Dear-486/git--github.git
+        * local repo link with  remote repo
         
-*step 10: git remote -v
-         verify remote     
+step 10: git remote -v
+         * verify remote     
          
-*step 9: git branch -M <newbranchname> 
-        renaming branch
+step 9: git branch -M <newbranchname> 
+        * renaming branch
         
-*step 10:git push -u origin main  
-        local repo content -> remote repo
+step 10:git push -u origin main  
+        * local repo content -> remote repo
 

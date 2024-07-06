@@ -40,6 +40,5 @@ step 9: git branch -M <newbranchname>
 Answer:     renaming branch
      
 step 10:git push -u origin main  
-       <br>
 Answer:         local repo content ->remote repo
 

@@ -29,7 +29,7 @@ step 8: create github repo
 
 step 9: git remote add origin git@github.com:Hi-Dear-486/git--github.git 
          <br>
-         local repo link with  remote repo
+  Answer:     local repo link with  remote repo
         
 step 10: git remote -v
          <br>
@@ -37,9 +37,9 @@ Answer:         verify remote
          
 step 9: git branch -M <newbranchname> 
         <br>
-     Answer:    renaming branch
+Answer:     renaming branch
      
 step 10:git push -u origin main  
        <br>
- Answer:       local repo content ->remote repo
+Answer:         local repo content ->remote repo
 

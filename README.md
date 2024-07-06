@@ -1,12 +1,12 @@
 step 1: git installation to verify (git --version)
 
 step 2: configure git with username and email
-git config --global user.name "Muhammad Zeeshan"
-git config --global user.email "fullstackdeveloper486@gmail.com"
-git config --list
+* git config --global user.name "Muhammad Zeeshan"
+* git config --global user.email "fullstackdeveloper486@gmail.com"
+* git config --list
 
 step 3: how to create git repo (hidden repo) ?
-Answer git init
+* Answer git init
 
 how to check the hidden file like ./git?
 Answer: ls -la

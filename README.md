@@ -28,7 +28,7 @@ step 7: git log
 step 8: create github repo
 
 step 9: git remote add origin git@github.com:Hi-Dear-486/git--github.git 
-<br>
+         <br>
          local repo link with  remote repo
         
 step 10: git remote -v

@@ -28,13 +28,10 @@
 
 <h4>step 8: create github repo</h4>
 <h4>step 9: git remote add origin git@github.com:Hi-Dear-486/git--github.git </h4>
-         <br>
   Answer:     local repo link with  remote repo
 <h4>step 10: git remote -v</h4>
-         <br>
 Answer:    verify remote     
 <h4>step 9: git branch -M <newbranchname> </h4>
-  <br>
 Answer:     renaming branch 
 <h4>step 10:git push -u origin main  </h4>
 Answer:         local repo content ->remote repo

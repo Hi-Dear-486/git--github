@@ -1,128 +1,45 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>HTML Table Generator</title> 
-	<style>
-		table {
-			border:1px solid #b3adad;
-			border-collapse:collapse;
-			padding:5px;
-		}
-		table th {
-			border:1px solid #b3adad;
-			padding:5px;
-			background: #f0f0f0;
-			color: #313030;
-		}
-		table td {
-			border:1px solid #b3adad;
-			text-align:center;
-			padding:5px;
-			background: #ffffff;
-			color: #313030;
-		}
-	</style>
-</head>
-<body>
-	<table>
-		<thead>
-			<tr>
-				<th>Header 1</th>
-				<th>Header 2</th>
-				<th>Header 3</th>
-				<th>Header 4</th>
-				<th>Header 5</th>
-				<th>Header 6</th>
-				<th>Header 7</th>
-				<th>Header 8</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-			</tr>
-		</tbody>
-	</table>
-</body>
-</html>
+
 <h4>step 1: git installation to verify (git --version)</h4>
 
-<h1>step 2: configure git with username and email</h1>
+<h4>step 2: configure git with username and email</h4>
 * git config --global user.name "Muhammad Zeeshan"
 * git config --global user.email "fullstackdeveloper486@gmail.com"
 * git config --list
 
-<h1>step 3: how to create git repo (hidden repo) ?</h1>
+<h4>step 3: how to create git repo (hidden repo) ?</h4>
 * Answer git init
 
-<h1>how to check the hidden file like ./git?</h1>
+<h4>how to check the hidden file like ./git?</h4>
 * Answer: ls -la
 
-<h1>step 4: git status</h1>
+<h4>step 4: git status</h4>
 
 * Viewing Modified Files
 * Untracked Files
   
-<h1>step 5: git add .</h1>
+<h4>step 5: git add .</h4>
 * Track all files
 
-<h1>step 6: git commit -m "some message"</h1>
+<h4>step 6: git commit -m "some message"</h4>
 * describe changing
 
-<h1>step 7: git log</h1>
+<h4>step 7: git log</h4>
 * History of commits
 
-<h1>step 8: create github repo</h1>
+<h4>step 8: create github repo</h4>
 
-<h1>step 9: git remote add origin git@github.com:Hi-Dear-486/git--github.git </h1>
+<h4>step 9: git remote add origin git@github.com:Hi-Dear-486/git--github.git </h4>
          <br>
   Answer:     local repo link with  remote repo
         
-<h1>step 10: git remote -v</h1>
+<h4>step 10: git remote -v</h4>
          <br>
 Answer:         verify remote     
          
-<h1>step 9: git branch -M <newbranchname> </h1>
+<h4>step 9: git branch -M <newbranchname> </h4>
         <br>
 Answer:     renaming branch
      
-<h1>step 10:git push -u origin main  </h1>
+<h4>step 10:git push -u origin main  </h4>
 Answer:         local repo content ->remote repo
 

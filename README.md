@@ -22,7 +22,6 @@ Answer: ls -la
 step 4: git status
 <br>
 * Viewing Modified Files
-<br>
 * Untracked Files
 <br>
 

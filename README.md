@@ -5,6 +5,7 @@
 * git config --global user.name "Muhammad Zeeshan" 
 <br>
 * git config --global user.email "fullstackdeveloper486@gmail.com"
+<br>
 * git config --list
 
 <h4>step 3: how to create git repo (hidden repo) ?</h4>

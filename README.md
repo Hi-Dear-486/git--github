@@ -9,7 +9,7 @@ step 3: how to create git repo (hidden repo) ?
 * Answer git init
 
 how to check the hidden file like ./git?
-Answer: ls -la
+* Answer: ls -la
 
 step 4: git status
 
@@ -17,25 +17,25 @@ step 4: git status
 * Untracked Files
   
 step 5: git add .
-Track all files
+* Track all files
 
 step 6: git commit -m "some message"
-describe changing
+* describe changing
 
 step 7: git log
-History of commits
+* History of commits
 
 step 8: create github repo
 
-step 9: git remote add origin git@github.com:Hi-Dear-486/git--github.git
+*step 9: git remote add origin git@github.com:Hi-Dear-486/git--github.git
         local repo link with  remote repo
         
-step 10: git remote -v
+*step 10: git remote -v
          verify remote     
          
-step 9: git branch -M <newbranchname> 
+*step 9: git branch -M <newbranchname> 
         renaming branch
         
-step 10:git push -u origin main  
+*step 10:git push -u origin main  
         local repo content -> remote repo
 

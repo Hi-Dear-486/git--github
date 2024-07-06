@@ -1,10 +1,9 @@
 step 1: git installation to verify (git --version)
-<br>
 
 step 2: configure git with username and email
-<br>
+
 git config --global user.name "Muhammad Zeeshan"
-<br>
+
 git config --global user.email "fullstackdeveloper486@gmail.com"
 <br>
 git config --list

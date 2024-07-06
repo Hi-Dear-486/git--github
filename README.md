@@ -1,4 +1,4 @@
-<h1>step 1: git installation to verify (git --version)</h1>
+<h41>step 1: git installation to verify (git --version)</h4>
 
 <h1>step 2: configure git with username and email</h1>
 * git config --global user.name "Muhammad Zeeshan"

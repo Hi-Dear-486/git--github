@@ -1,4 +1,3 @@
-
 <h4>step 1: git installation to verify (git --version)</h4>
 
 <h4>step 2: configure git with username and email</h4>
@@ -16,9 +15,9 @@
 
 <h4>step 4: git status</h4>
 
-* Viewing Modified Files
-* Untracked Files
-  
+- Viewing Modified Files
+- Untracked Files
+
 <h4>step 5: git add .</h4>
 * Track all files
 
@@ -37,4 +36,4 @@ Answer:    verify remote
 Answer:     renaming branch 
 <h4>step 10:git push -u origin main  </h4>
 Answer:         local repo content ->remote repo
-
+<h4>git merge branchname</h4>

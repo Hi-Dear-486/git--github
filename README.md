@@ -2,6 +2,7 @@
 <h4>step 1: git installation to verify (git --version)</h4>
 
 <h4>step 2: configure git with username and email</h4>
+<hr>
 * git config --global user.name "Muhammad Zeeshan"
 * git config --global user.email "fullstackdeveloper486@gmail.com"
 * git config --list
